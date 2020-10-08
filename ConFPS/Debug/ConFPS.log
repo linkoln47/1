@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\linko\source\repos\ConFPS\Source.cpp(19,26): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\linko\source\repos\ConFPS\Source.cpp(140,26): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\linko\source\repos\ConFPS\Source.cpp(149,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  ConFPS.vcxproj -> C:\Users\linko\source\repos\ConFPS\Debug\ConFPS.exe

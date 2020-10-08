@@ -1,0 +1,2 @@
+C:\Users\linko\source\repos\ConFPS\Debug\ConFPS.exe
+C:\Users\linko\source\repos\ConFPS\Debug\ConFPS.pdb
